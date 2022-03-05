@@ -32,6 +32,9 @@ nltk
 
 jupyter lab
 
+
+### **FIGMA PREVIEW**
+![image](https://user-images.githubusercontent.com/47258547/156895394-261beb01-3f6b-490f-9308-76a32b96ff44.png)
 flask
 
 
