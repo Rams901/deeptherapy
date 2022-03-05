@@ -1,6 +1,5 @@
 # deeptherapy
 ![image](https://user-images.githubusercontent.com/47258547/156894758-ae97e64e-12b4-45fb-b09f-c8480376d453.png)
-![image](https://user-images.githubusercontent.com/47258547/156896764-6b5c2832-9d97-4f9e-b405-b69eb2e165ba.png)
 
 A sample implementation for a long-term project, DeepTherapy, that aims to build an intelligent system which gurantees:
 
@@ -36,6 +35,10 @@ jupyter lab
 flask
 
 ### **FIGMA PREVIEW**
+
+![image](https://user-images.githubusercontent.com/47258547/156896951-c8e558da-4079-4830-8106-19bec56434c7.png)
+
+
 **Login/Signup**
 
 ![image](https://user-images.githubusercontent.com/47258547/156895394-261beb01-3f6b-490f-9308-76a32b96ff44.png)
