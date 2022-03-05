@@ -18,9 +18,13 @@ A bad mood message
 
 ### **Dependencies**
 python > 3.01
+
 sklearn
+
 nltk
+
 jupyter lab
+
 flask
 
 
