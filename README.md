@@ -47,7 +47,8 @@ flask
 
 **Patient Home Screen**
 
-![image](https://user-images.githubusercontent.com/47258547/156896518-f8ba589d-39ca-40bf-afb8-9f046eb5f908.png)
+![image](https://user-images.githubusercontent.com/47258547/156896573-e5d063a9-0d17-42af-b93d-7eccc80dad8f.png)
+
 
 
 
