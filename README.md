@@ -32,9 +32,15 @@ nltk
 
 jupyter lab
 
+flask
 
 ### **FIGMA PREVIEW**
+**Login/Signup**
 ![image](https://user-images.githubusercontent.com/47258547/156895394-261beb01-3f6b-490f-9308-76a32b96ff44.png)
-flask
+![image](https://user-images.githubusercontent.com/47258547/156895458-eda38d68-fdb5-4e0f-a1a8-f401e0fe2d38.png)
+**Doctor Home Screen**
+![image](https://user-images.githubusercontent.com/47258547/156895506-c6a22d51-23d8-4b87-a28f-39b53e5b0767.png)
+
+
 
 
