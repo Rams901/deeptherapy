@@ -36,12 +36,10 @@ flask
 
 ### **FIGMA PREVIEW**
 
-![image](https://user-images.githubusercontent.com/47258547/156896951-c8e558da-4079-4830-8106-19bec56434c7.png)
-
+![image](https://user-images.githubusercontent.com/47258547/156897009-b96e5c86-b352-4f73-8782-cdf0291cef6b.png)
 
 **Login/Signup**
 
-![image](https://user-images.githubusercontent.com/47258547/156897009-b96e5c86-b352-4f73-8782-cdf0291cef6b.png)
 
 ![image](https://user-images.githubusercontent.com/47258547/156895458-eda38d68-fdb5-4e0f-a1a8-f401e0fe2d38.png)
 
@@ -51,7 +49,7 @@ flask
 
 **Patient Home Screen**
 
-![image](https://user-images.githubusercontent.com/47258547/156896573-e5d063a9-0d17-42af-b93d-7eccc80dad8f.png)
+![image](https://user-images.githubusercontent.com/47258547/156897285-552fe9ac-b3d3-4206-8e6b-e2792d26b7f6.png)
 
 
 
