@@ -1,7 +1,7 @@
 # deeptherapy
 ![image](https://user-images.githubusercontent.com/47258547/156894758-ae97e64e-12b4-45fb-b09f-c8480376d453.png)
 
-A sample implementation for a long-term project, DeepTherapy, that aims to build an intelligent system which gurantees:
+A sample implementation for a long-term project, DeepTherapy, that aims to build an intelligent system which guarantees:
 
 - Bridge between psychotherapists and people with mental health issues, providing a stable communication and 24/7 control over patients.
 - Detects different types of mental health issues and send weekly statistical reports to doctors. 
