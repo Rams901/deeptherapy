@@ -1,5 +1,6 @@
 # deeptherapy
 ![image](https://user-images.githubusercontent.com/47258547/156894758-ae97e64e-12b4-45fb-b09f-c8480376d453.png)
+![image](https://user-images.githubusercontent.com/47258547/156896764-6b5c2832-9d97-4f9e-b405-b69eb2e165ba.png)
 
 A sample implementation for a long-term project, DeepTherapy, that aims to build an intelligent system which gurantees:
 
