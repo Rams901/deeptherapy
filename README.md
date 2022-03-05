@@ -1,5 +1,5 @@
 # deeptherapy
-![image](https://user-images.githubusercontent.com/47258547/156894673-179f2261-4907-4181-81f8-e3f3dec8d7ee.png)
+![image](https://user-images.githubusercontent.com/47258547/156894714-edc26189-c581-4d13-b9df-b0b4b963f54c.png)
 
 A sample implementation for a long-term project, DeepTherapy, that aims to build an intelligent system which detects different types of mental health issues using Artificial Intelligence
 
