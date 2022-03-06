@@ -35,6 +35,7 @@ jupyter lab
 flask
 
 ### **FIGMA PREVIEW**
+[Preview Link](https://www.figma.com/file/jR6Q83itFxDFcHKUhpdvWw/Untitled?node-id=0%3A1)
 
 ![image](https://user-images.githubusercontent.com/47258547/156897009-b96e5c86-b352-4f73-8782-cdf0291cef6b.png)
 
