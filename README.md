@@ -53,5 +53,3 @@ flask
 ![image](https://user-images.githubusercontent.com/47258547/156897285-552fe9ac-b3d3-4206-8e6b-e2792d26b7f6.png)
 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FjR6Q83itFxDFcHKUhpdvWw%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
-
